@@ -1,0 +1,125 @@
+{
+  "trainedAt": "2026-07-15T15:55:48.103565Z",
+  "sourceFile": "C:\\Users\\JAYENDRA\\OneDrive\\Desktop\\aqi-prediction\\AQI-Prediction-System\\public\\aqi-data.json",
+  "datasetSize": 434,
+  "featureColumns": [
+    "latitude",
+    "longitude",
+    "month",
+    "weekday",
+    "is_weekend",
+    "distance_to_nearest_station",
+    "avg_distance_km",
+    "neighbor_count",
+    "neighbor_aqi_mean",
+    "neighbor_aqi_std",
+    "neighbor_pm25_mean",
+    "neighbor_pm10_mean",
+    "neighbor_no2_mean",
+    "neighbor_so2_mean",
+    "neighbor_o3_mean",
+    "neighbor_co_mean",
+    "neighbor_rh_mean",
+    "neighbor_ws_mean",
+    "neighbor_aod_mean",
+    "neighbor_pollution_load_mean",
+    "neighbor_traffic_signature_mean",
+    "neighbor_cluster_mode"
+  ],
+  "metrics": {
+    "rmse": 60.54719296481259,
+    "mae": 35.08634648448102,
+    "r2": 0.40611084179360246
+  },
+  "neighborCount": 5,
+  "topFeatureImportances": [
+    {
+      "feature": "neighbor_pm10_mean",
+      "importance": 0.17877022988376143
+    },
+    {
+      "feature": "neighbor_pm25_mean",
+      "importance": 0.1602440780174232
+    },
+    {
+      "feature": "neighbor_aqi_mean",
+      "importance": 0.10677972113965634
+    },
+    {
+      "feature": "neighbor_pollution_load_mean",
+      "importance": 0.07912512170065325
+    },
+    {
+      "feature": "month",
+      "importance": 0.04269838400060901
+    },
+    {
+      "feature": "neighbor_no2_mean",
+      "importance": 0.0392546257609545
+    },
+    {
+      "feature": "avg_distance_km",
+      "importance": 0.03778657188477718
+    },
+    {
+      "feature": "neighbor_co_mean",
+      "importance": 0.03566341901542441
+    },
+    {
+      "feature": "longitude",
+      "importance": 0.03443884848228911
+    },
+    {
+      "feature": "neighbor_traffic_signature_mean",
+      "importance": 0.03395978665695059
+    },
+    {
+      "feature": "neighbor_ws_mean",
+      "importance": 0.03252621584396092
+    },
+    {
+      "feature": "latitude",
+      "importance": 0.03248273857181938
+    },
+    {
+      "feature": "neighbor_aqi_std",
+      "importance": 0.03030429219878725
+    },
+    {
+      "feature": "distance_to_nearest_station",
+      "importance": 0.02644413723832315
+    },
+    {
+      "feature": "neighbor_rh_mean",
+      "importance": 0.0239513874001336
+    },
+    {
+      "feature": "neighbor_so2_mean",
+      "importance": 0.023076819894543056
+    },
+    {
+      "feature": "neighbor_cluster_mode",
+      "importance": 0.02068590481854676
+    },
+    {
+      "feature": "neighbor_aod_mean",
+      "importance": 0.01915280580145096
+    },
+    {
+      "feature": "neighbor_o3_mean",
+      "importance": 0.01856799587617096
+    },
+    {
+      "feature": "weekday",
+      "importance": 0.015470450745572885
+    },
+    {
+      "feature": "is_weekend",
+      "importance": 0.008616465068192273
+    },
+    {
+      "feature": "neighbor_count",
+      "importance": 0.0
+    }
+  ]
+}
