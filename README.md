@@ -183,12 +183,11 @@ API_KEY=
 
 ## 📊 Model Performance
 
-| Metric | Value |
-|---------|------:|
-| Accuracy | ______ |
-| RMSE | ______ |
-| MAE | ______ |
-| R² Score | ______ |
+| Metric | PM2.5 | PM10 |
+|---------|------:|------:|
+| RMSE | 27.33 | 55.47 |
+| MAE | — | — |
+| R² Score | — | — |
 
 ---
 
