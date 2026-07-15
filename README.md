@@ -248,14 +248,13 @@ GET /api/city/:city
 
 ## 🚀 Future Enhancements
 
-- Pollution Hotspot Prediction
-- Explainable AI (SHAP/LIME)
-- Personalized Exposure Risk Analysis
-- Smart AQI Alert System
-- Route-based Pollution Analysis
-- Mobile Application
-- IoT Sensor Integration
-
+- Integrate deep learning models (LSTM/Transformers) for more accurate long-term AQI forecasting.
+- Develop a pollution hotspot prediction system using spatio-temporal environmental data.
+- Implement Explainable AI (XAI) with SHAP/LIME to improve prediction transparency and model interpretability.
+- Add an NLP-powered environmental report generator that converts AQI data into human-readable insights.
+- Build an AI assistant capable of answering air quality and environmental queries using Retrieval-Augmented Generation (RAG).
+- Introduce autonomous AI agents to monitor environmental data, generate alerts, and automate reporting workflows.
+- Expand the platform with satellite image analysis and advanced geospatial intelligence for high-resolution pollution monitoring.
 ---
 
 ## 🤝 Contributing
