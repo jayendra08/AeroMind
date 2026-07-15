@@ -1,4 +1,4 @@
-# 🌍 AI-Powered Air Quality Prediction System
+# 🌍 AeroMind
 
 An intelligent web application that predicts **Air Quality Index (AQI)** using Machine Learning and visualizes environmental data through an interactive MERN stack dashboard. The system integrates environmental, meteorological, and pollution-related datasets to provide accurate air quality predictions, historical analysis, and future forecasting.
 
