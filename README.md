@@ -120,9 +120,9 @@ AQI-Prediction-System
 ### Clone the Repository
 
 ```bash
-git clone ________________________________
+git clone https://github.com/jayendra08/AeroMind.git
 
-cd ________________________________
+cd AeroMind
 ```
 
 ### Install Backend Dependencies
