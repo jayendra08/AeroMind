@@ -22,6 +22,28 @@ Air pollution has become one of the most significant environmental challenges wo
 - 🏙️ City-wise Air Quality Monitoring
 - 📱 Fully Responsive User Interface
 
+## 🤖 AI AQI Chatbot Assistant
+
+AeroMind includes an interactive AQI Assistant that enables users to retrieve comprehensive air quality information through a simple conversational interface.
+
+Users can enter or select the name of a city or location, and the assistant instantly provides detailed environmental information, including:
+
+- 🌫️ Air Quality Index (AQI)
+- 💨 PM2.5 Concentration
+- 🌪️ PM10 Concentration
+- 🧪 NO₂ Levels
+- ☀️ Ozone (O₃) Levels
+- 🌡️ Temperature
+- 💨 Wind Speed
+- 📊 Overall Air Quality Status
+
+The assistant presents environmental data in a clear and user-friendly format, allowing users to quickly understand current air quality conditions for any supported location.
+
+### Preview
+
+<img width="1920" height="1080" alt="Screenshot 2026-07-15 232121" src="https://github.com/user-attachments/assets/9374d799-2b7f-4f7e-831a-0372576b6fa7" />
+
+
 ---
 
 ## 🛠️ Tech Stack
