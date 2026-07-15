@@ -219,15 +219,27 @@ GET /api/city/:city
 
 ### Home Dashboard
 
-*Add screenshot here*
+<img width="1920" height="1080" alt="Screenshot 2026-07-15 222235" src="https://github.com/user-attachments/assets/939d0085-e82d-44a1-8902-7666bc364ded" />
+
 
 ### AQI Prediction
 
-*Add screenshot here*
+<img width="1920" height="1080" alt="Screenshot 2026-07-15 222507" src="https://github.com/user-attachments/assets/f3ebb777-2f91-4757-b17b-5545617ddaaa" />
+
 
 ### Analytics Dashboard
 
-*Add screenshot here*
+<img width="1920" height="1080" alt="Screenshot 2026-07-15 222206" src="https://github.com/user-attachments/assets/a45ab2fb-fb4f-425b-9b00-57c797936cad" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-07-15 222540" src="https://github.com/user-attachments/assets/e33d3f25-a1c0-4c03-8b4b-64ff3ea41999" />
+
+<img width="1920" height="1080" alt="Screenshot 2026-07-15 222619" src="https://github.com/user-attachments/assets/2a8feaea-f996-4eaf-a410-980da2f4d6f0" />
+
+<img width="1920" height="1020" alt="Screenshot 2026-07-15 221943" src="https://github.com/user-attachments/assets/6d745f35-2507-4cd1-ac8b-269ba4b21f68" />
+
+
+
+
 
 ---
 
@@ -259,11 +271,7 @@ Contributions are welcome!
 
 **Name:** Jayendra Ghosh
 
-**GitHub:** 
-
-**LinkedIn:** 
-
-**Email:** ______________________
+**GitHub:** https://github.com/jayendra08
 
 ---
 
