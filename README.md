@@ -219,23 +219,26 @@ GET /api/city/:city
 
 ### Home Dashboard
 
-<img width="1920" height="1080" alt="Screenshot 2026-07-15 222235" src="https://github.com/user-attachments/assets/939d0085-e82d-44a1-8902-7666bc364ded" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-15 230721" src="https://github.com/user-attachments/assets/7e6d02e5-f0ab-4e28-afa6-8aca42d325aa" />
 
 
-### AQI Prediction
 
-<img width="1920" height="1080" alt="Screenshot 2026-07-15 222507" src="https://github.com/user-attachments/assets/f3ebb777-2f91-4757-b17b-5545617ddaaa" />
+### Micro-Location Lab
+
+<img width="1920" height="1080" alt="Screenshot 2026-07-15 230736" src="https://github.com/user-attachments/assets/22c4697e-1b57-4cf7-b4c9-c8d4fffe16f8" />
 
 
-### Analytics Dashboard
 
-<img width="1920" height="1080" alt="Screenshot 2026-07-15 222206" src="https://github.com/user-attachments/assets/a45ab2fb-fb4f-425b-9b00-57c797936cad" />
 
-<img width="1920" height="1080" alt="Screenshot 2026-07-15 222540" src="https://github.com/user-attachments/assets/e33d3f25-a1c0-4c03-8b4b-64ff3ea41999" />
 
-<img width="1920" height="1080" alt="Screenshot 2026-07-15 222619" src="https://github.com/user-attachments/assets/2a8feaea-f996-4eaf-a410-980da2f4d6f0" />
+### AQI and PM 2.5 Ranking
 
-<img width="1920" height="1020" alt="Screenshot 2026-07-15 221943" src="https://github.com/user-attachments/assets/6d745f35-2507-4cd1-ac8b-269ba4b21f68" />
+<img width="1920" height="1080" alt="Screenshot 2026-07-15 230750" src="https://github.com/user-attachments/assets/b2eec073-0ab2-4772-9c3c-492886aa8aa6" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1c33af46-634b-43db-a375-2222c688c37e" />
+
+
+
 
 
 
